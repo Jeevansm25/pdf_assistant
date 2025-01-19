@@ -14,21 +14,17 @@ Ensure you have the following installed:
 ## **Setup Instructions**
 
 ### 1. **Clone the Repository**
-```bash
-git clone <repository-url>
-cd <repository-directory>
+ 
+   git clone https://github.com/Jeevansm25/pdf_assistant
+   cd pdf_assistant
+
 
 ### 2. **Install Dependencies**
 
-Run the following command to install all required npm packages:
-```bash
-npm install
+   npm install
 
 ### 3. **Start the Development Server**
 
-
-Run the development server locally:
-```bash
-npm run dev
+   npm run dev
 
 This will start the server at http://localhost:5173 (default port).
